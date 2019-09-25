@@ -1,3 +1,2 @@
-a = [5, 4, 3]
-a[2] = a[1]
+a = list(range(0, 10, 4))
 print(a)
